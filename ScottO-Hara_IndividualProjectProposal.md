@@ -20,12 +20,14 @@ This will be a new open source project and therefore I have no URL.
 Required Resources
 
 Group members: TBD
+
 ·	People who have worked with or are interested in MongoDB or MySQL.
 ·	People who are generally interested in my idea.
 ·	People who have worked with machine learning for the user pattern recognition.
 ·	If anyone has worked with front-end development, this would be great!
 
-Hardware and software resources required
+Hardware and software resources required:
+
 •	Laptop or PC
 •	Mobile device
 •	MySQL
