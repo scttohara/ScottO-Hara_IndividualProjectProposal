@@ -7,7 +7,7 @@ My project would focus on creating a website to help parents and children commun
 
 Project Relevance
 	
-The main educational goals this project focuses on are access to a database and multi-threading. This project is made up of HTML, CSS, JavaScript, MySQL, and MongoDB. Additionally, I will use a Linux server running on an old PC in my house. The project will enhance students with those skills. The website would be open-source and stored on GitHub. 
+The main educational goals this project focuses on are access to a database, multi-threading, and OOP. This project is made up of HTML, CSS, JavaScript, MySQL, and MongoDB. Additionally, I will use a Linux server running on an old PC in my house. The project will enhance students with those skills. The website would be open-source and stored on GitHub. 
 
 Conceptual Design
 
